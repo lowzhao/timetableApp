@@ -1,0 +1,8 @@
+{
+  "name": "TimetableApp",
+  "app_id": "e74de063",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
